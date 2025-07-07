@@ -1,4 +1,5 @@
 🛒 E-Commerce Frontend Project
+
 📄 Project Description
 This is a frontend-only e-commerce website designed using HTML, CSS, and JavaScript. The project focuses on creating a visually appealing and user-friendly interface that mimics a real online shopping experience. It includes essential pages and components such as a homepage, product listing, product details, shopping cart layout, and responsive design.
 
